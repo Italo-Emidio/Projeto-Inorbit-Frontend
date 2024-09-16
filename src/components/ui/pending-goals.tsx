@@ -1,4 +1,4 @@
-import { AwardIcon, Plus } from "lucide-react";
+import { Plus } from "lucide-react";
 import { OutlineButton } from "./ui/outline-button";
 import { getPendingGoals } from "../../http/get-pending-goals";
 import { useQuery, useQueryClient } from "@tanstack/react-query";

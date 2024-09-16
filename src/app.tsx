@@ -2,7 +2,6 @@ import { Dialog } from "./components/ui/dialog";
 import { CreateGoal } from "./components/ui/create-goal";
 import { EmptyGoals } from "./components/ui/empty-goals";
 import { Summary } from "./components/ui/summary";
-import { useEffect, useState } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { getSummary } from "./http/get-summary";
 

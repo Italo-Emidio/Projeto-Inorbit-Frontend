@@ -14,7 +14,7 @@ import {
 } from "./ui/radio-group";
 import { Button } from "./ui/button";
 import { Controller, useForm } from "react-hook-form";
-import { TypeOf, z } from "zod";
+import { z } from "zod";
 import { zodResolver } from "@hookform/resolvers/zod/src/zod.js";
 import { createGoal } from "../../http/create-goal";
 import { useQueryClient } from "@tanstack/react-query";
