@@ -10,9 +10,9 @@ A interface foi construída com o TailwindCSS, garantindo uma aparência moderna
 
 # Tecnologias Utilizadas:
 
-ReactJS;
-TypeScript;
-Vite;
-TailwindCSS;
-TanStack Query;
-API Node.js.
+- ReactJS;
+- TypeScript;
+- Vite;
+- TailwindCSS;
+- TanStack Query;
+- API Node.js.
